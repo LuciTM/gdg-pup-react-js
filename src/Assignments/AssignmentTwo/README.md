@@ -1,5 +1,7 @@
 # 2. Top 3 Major Projects Using Props
 
+<p align="center"><b>Learn how to pass and manage data between parent and child components using props. This exercise focuses on modular, reusable components by dynamically rendering project details inside child components.</b></p>
+
 ## Objective
 
 Learn how to pass data using props by displaying three major projects in a React app.

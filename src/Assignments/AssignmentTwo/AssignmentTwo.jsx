@@ -12,6 +12,8 @@ function Box({ title, content }) {
 }
 
 function AssignmentTwo() {
+  const objective =
+    "Learn how to pass and manage data between parent and child components using props. This exercise focuses on modular, reusable components by dynamically rendering project details inside child components.";
   const data = [
     {
       title: "Portfolio Website",
@@ -32,6 +34,7 @@ function AssignmentTwo() {
 
   return (
     <div className="title-container">
+      <div className="objective-section">{objective}</div>
       <h1>Top 3 Major Projects for 2025</h1>
       <p>
         Learn how to pass and manage data between parent and child components
