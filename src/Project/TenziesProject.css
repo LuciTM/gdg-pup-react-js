@@ -67,3 +67,10 @@ main {
     font-weight: bold;
     cursor: pointer;
 }
+
+.error-message {
+  color: #d32f2f;
+  font-weight: bold;
+  margin: 1rem 0;
+  text-align: center;
+}
